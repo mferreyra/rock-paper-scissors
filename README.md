@@ -1,0 +1,1 @@
+A simple implementation of grade-school classic “rock paper scissors”, on the browser console
